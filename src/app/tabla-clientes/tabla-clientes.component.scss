@@ -1,0 +1,24 @@
+table {
+    width: 100%;
+    a{
+        padding: 0rem 1rem;
+        fa-icon{
+            size: 3em;
+        }
+    }
+    h2 {
+        text-align: justify;
+    }
+    .left {
+        text-align: left;
+    }
+    .center {
+        text-align: center;
+    }
+    .right {
+        text-align: right;
+    }
+    th{
+        text-align: center;
+    }
+}
